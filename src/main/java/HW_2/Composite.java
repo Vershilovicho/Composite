@@ -16,5 +16,4 @@ public class Composite implements Share {
             component.draw();
         }
     }
-
 }
